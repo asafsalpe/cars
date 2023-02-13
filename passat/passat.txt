@@ -1,5 +1,5 @@
 VIN: ???
-VNZ: ???
+VNZ: NI4292
 
 Nepieciešamie remonti:
   * pārbaudīt abus akumulatorus
